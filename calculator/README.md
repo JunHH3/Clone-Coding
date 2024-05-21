@@ -1,3 +1,3 @@
 # Youtube
 
-계산기 culcalator
+유튜브 클린 코딩
