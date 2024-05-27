@@ -1,3 +1,3 @@
 # Youtube
 
-유튜브 클린 코딩
+자바스크립트 Calculator
